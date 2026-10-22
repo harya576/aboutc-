@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	int i,a[4]={2,4,7,6};
+	//mencetak array
+	for(i=0;i<=3;i++)
+	
+	cout<<a[i]<<endl;
+}
